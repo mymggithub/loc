@@ -1,5 +1,5 @@
 {
-	"states":[
+	"state":[
 		{"abbr":"AL","fullname":"Alabama"},
 		{"abbr":"AK","fullname":"Alaska"},
 		{"abbr":"AZ","fullname":"Arizona"},
